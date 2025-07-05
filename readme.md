@@ -1,6 +1,6 @@
 # Video to GIF Converter
 
-![Example GIF](https://demo.gif) *Example GIF created with this tool*
+![Example GIF](https://github.com/crysosancher/VidGif/blob/main/test.gif) *Example GIF created with this tool*
 
 A lightweight, high-quality video to GIF converter using FFmpeg. Perfect for creating smooth, optimized GIFs from 1080p or 4K video sources while maintaining small file sizes.
 
